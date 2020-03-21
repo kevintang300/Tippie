@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was extremely fun to interact with something right after creating it. It could be overwhelming without the tutorial walkthrough, because of all the complex features that swift offers.
 
 ## License
 
